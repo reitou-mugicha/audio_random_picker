@@ -1,2 +1,4 @@
 # audio_random_picker
 動画用
+claudeで適当に生成したやつなのでなんかあってもしりません
+pythonとtkinterdnd2があれば動くと思います
